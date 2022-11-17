@@ -1,0 +1,55 @@
+*{
+text-align: center;
+}
+
+
+body {
+margin: 5px 5px;
+}
+
+.btn1 {
+
+margin: 5px 5px;        
+padding: 10px 25px;
+width: 50px;
+color: white;
+background: #8FD14F;
+border: none;
+border-radius: 25px;
+text-align: center;
+}
+
+
+.btn2 {
+  
+    margin: 5px 5px;        
+    padding: 10px 25px;
+    width: 50px;
+    color: white;
+    background: #0CA789;
+    border: none;
+    border-radius: 25px;
+    text-align: center;
+    }
+
+    .btn3 {
+        
+        margin: 5px 5px;        
+        padding: 10px 25px;
+        width: 50px;
+        color: white;
+        background: #EB4045;
+        border: none;
+        border-radius: 25px;
+        text-align: center;
+        }
+
+p{
+    margin: 35px 35px;
+    padding: 10px;
+    background-color: #8FD14F;
+    border-radius: 5px;  
+    text-align: left;       
+
+
+}
